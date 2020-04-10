@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">COVID-19</string>
+    <string name="covid_19">COVID-19</string>
+    <string name="coronavirus_disease_covid_19_is_an_infectious_disease_caused_by_a_new_virus_it_can_easily_spreads_from_an_infected_person_to_any_normal_person_so_please_stay_at_home_be_safe_and_keep_yourself_updated_through_our_app">Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. It can easily spreads from an infected person to any normal person. so, please stay at home be safe and keep yourself updated through our app.</string>
+    <string name="sign_in">SIGN UP</string>
+    <string name="sign_in_here">Sign Up Here</string>
+    <string name="all_we_have_to_fight_against_covid_19_we_will_only_get_out_of_this_together">All we have to fight against COVID-19, we will only get out of this together.</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="log_in_here">Log In Here</string>
+    <string name="log_out">Log out</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="type_your_message_here">Type your message here</string>
+</resources>

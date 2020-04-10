@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_home_black"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/stat"
+        android:title="Statistic"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_timeline_black"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/warzone"
+        android:title="Warning Zone"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_location_searching_black"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/adviser"
+        android:title="Adviser"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_account_box_black"
+        app:showAsAction="never"
+        />
+
+</menu>

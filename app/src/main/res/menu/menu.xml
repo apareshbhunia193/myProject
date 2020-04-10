@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/chatwithall"
+        android:title="Chat"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_chat1"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/log_out"
+        />
+    <item
+        android:id="@+id/add_post"
+        android:orderInCategory="200"
+        app:showAsAction="always"
+        android:title="Add post"
+        android:icon="@drawable/ic_add_post"
+        />
+
+
+</menu>

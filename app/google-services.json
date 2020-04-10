@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254763519232",
+    "firebase_url": "https://covid-19-24a98.firebaseio.com",
+    "project_id": "covid-19-24a98",
+    "storage_bucket": "covid-19-24a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254763519232:android:42581b98984c1c52c5f7e5",
+        "android_client_info": {
+          "package_name": "com.aparesh01.covid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254763519232-0m8ib662foaam12daen4f9407dt298kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBarNaMM3VazCN0rSlI4UwaPrcUL_KbhLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254763519232-0m8ib662foaam12daen4f9407dt298kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
